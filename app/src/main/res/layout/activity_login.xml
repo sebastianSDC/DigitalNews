@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".views.activities.SplashActivity">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:alpha=".1"
+        android:background="@drawable/fondosplash"
+
+        />
+
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="86dp"
+        android:layout_height="116dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:scrollbarSize="100dp"
+        android:src="@drawable/iso_para_arranque" />
+
+    <ImageView
+        android:id="@+id/marca"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="102dp"
+        android:src="@drawable/logo_para_arranque" />
+
+    <EditText
+        android:id="@+id/editxt_mail"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="196dp"
+        android:inputType="textEmailAddress"
+        android:hint="mail"
+        android:textAlignment="textStart"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="16dp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/editxt_password"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="248dp"
+        android:inputType="textPassword"
+        android:hint="password"
+        android:textAlignment="textStart"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="16dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_above="@+id/boton_crearUsuario"
+        android:layout_marginHorizontal="50dp"
+        android:text="Si todavia no tenes cuenta completa mail, password y hace click en CREAR CUENTA"
+        android:textAlignment="center"
+        android:layout_marginBottom="0dp"/>
+
+    <Button
+        android:id="@+id/boton_logUsuario"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editxt_password"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="5dp"
+        android:text="Login" />
+
+    <Button
+        android:id="@+id/boton_crearUsuario"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/login_button"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:text="Crear Cuenta" />
+
+
+    <com.facebook.login.widget.LoginButton
+        android:id="@+id/login_button"
+        android:layout_width="273dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="65dp" />
+
+
+</RelativeLayout>
+
+

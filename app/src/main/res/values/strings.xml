@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">Digital News</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="facebook_app_id">217143022468826</string>
+    <string name="fb_login_protocol_scheme">fb217143022468826</string>
+
+    <string name="ejemplo_categoria">TECNOLOGIA</string>
+
+    <string name="ejemplo_titulo">PS4 “está entrando en la fase final” de su ciclo de vida, según CEO de Sony</string>
+    <string name="ejemplo_detallenoticia">Tal parece que Sony se ha dejado de rodeos y aprovechó el Sony Investor Relations
+    Day 2018, evento que se celebra en Tokio actualmente, para dar una noticia que no será bien recibida por los fanáticos de
+    la consola PS4. Si bien, la vida útil de la actual serie de consolas de la marca ha estado en conflicto tras el lanzamiento
+    de las actualizaciones PS4 Pro y Xbox One X, la compañía informó lo que podría tratarse el final del PS4. Acuerdo
+    con la información compartida por el reportero del Wall Street Journal, Takashi Mochizuki, el CEO de Sony habló con un grupo
+    de inversores y analistas del estado de la plataforma.El CEO de la compañía se refirió a una “fase final” del PS4, según el
+    tweet publicado por el periodista:</string>
+
+
+    <string name="ejemplo_titulo01">El nuevo Google Lens ya está aquí: así lo puedes probar y estas son las novedades</string>
+    <string name="ejemplo_detallenoticia01">Durante el pasado Google I/O se presentaron muchas mejoras de Google Lens, pero cuando
+        fuimos entusiasmados a probarlas en nuestros teléfonos nos llevamos una decepción: todavía no estaban disponible.
+        Ahora el nuevo Google Lens ha empezado a desplegarse, y es muy probable que ya lo tengas activado. Después de un primer
+        asalto al integrarse dentro de Google Fotos, ahora llega a tu cámara, usando su magia directamente en el entorno que
+        tienes delante, sin necesidad de hacer una foto antes. Esta nueva integración funciona directamente desde el Asistente
+        de Google.Para ver si ya tienes activado el nuevo Google Lens, haz una pulsación prolongada en el botón inicio hasta que
+        aparezca la ventana del Asistente de Google. Allí debería aparecerte en la esquina inferior derecha el nuevo botón de Google
+        Lens. desplegarse, y es muy probable que ya lo tengas activado.Después de un primer asalto al integrarse dentro de Google
+        Fotos, ahora llega a tu cámara, usando su magia directamente en el entorno que tienes delante, sin necesidad de hacer una
+        foto antes. Esta nueva integración funciona directamente desde el Asistente de Google. Cómo usar la cámara de Google Lens
+        Lens1 Para ver si ya tienes activado el nuevo Google Lens, haz una pulsación prolongada en el botón inicio hasta que
+        aparezca la ventana del Asistente de Google. Allí debería aparecerte en la esquina inferior derecha el nuevo botón
+        de Google Lens. La primera vez que pulsas en él se te muestra una pantalla introductoria explicándote las nuevas
+        capacidades de Google Lens y lo que puedes hacer con él, destacando el análisis de texto, la búsqueda de productos
+        y la información sobre lugares. Deberás otorgar al asistente permiso para usar la cámara.</string>
+
+
+    <string name="ejemplo_titulo02">Esta es la razón por la que Instagram registra todo lo que haces en la app</string>
+    <string name="ejemplo_detallenoticia02">Hablar de redes sociales hoy en día es abrir un debate sobre la invasión a nuestra
+        privacidad y toda la información que estamos dispuestos a dar con tal de poder interactuar con una enorme comunidad en
+        Internet, poniendo en duda si nos beneficia más de lo que nos perjudica. Y el día de hoy se ha sumado una nueva polémica,
+        pues se ha descubierto que Instagram registra absolutamente todo lo que haces en la aplicación, incluso las veces que
+        haces scroll, así como las pulsaciones de pantalla, prácticamente todo lo que pasa cuando usas Instagram se va a los
+        servidores de la compañía</string>
+
+
+    <!--estos seran los strings definitivos cuando no tengamos que harcodear los textos-->
+    <string name="titulo_de_la_noticia">Titulo de la Noticia</string>
+    <string name="texto_de_la_noticia">Texto de la Noticia</string>
+
+    <string name="categoria_politica">POLITICA</string>
+    <string name="categoria_economia">ECONOMIA</string>
+    <string name="categoria_policiales">POLICIALES</string>
+    <string name="categoria_espectaculos">ESPECTACULOS</string>
+    <string name="categoria_tecnologia">TECNOLOGIA</string>
+    <string name="categoria_internacionales">INTERNACIONALES</string>
+    <string name="categoria_moda">MODA</string>
+    <string name="categoria_deportes">DEPORTES</string>
+
+    <string name="categoria_menu_general">General</string>
+    <string name="categoria_menu_negocios">Economia</string>
+    <string name="categoria_menu_policiales">Policiales</string>
+    <string name="categoria_menu_espectaculos">Espectaculos</string>
+    <string name="categoria_menu_tecnologia">Tecnologia</string>
+    <string name="categoria_menu_salud">Salud</string>
+    <string name="categoria_menu_ciencia">Ciencia</string>
+    <string name="categoria_menu_deportes">Deportes</string>
+
+
+    <string name="titulo_de_cat_moda">Blanco y Negro, rayas... tendencia siempre tendencia.</string>
+    <string name="texto_de_cat_moda">En apenas dos semanas daremos la bienvenida a la tan esperada primavera y ni las flores, ni los animales, ni las frutas serán los protagonistas
+        de los estampados estrella de la temporada......
+        ¡porque las rayas en blanco y negro se han hecho con el poder! Pantalones, camisas, chaquetas, shorts, vestidos, bolsos, zapatos... ¡incluso gafas de sol!
+        La combinación de los colores blanco y negro, un básico de estilo, se reinventa y conquista los escaparates en su versión a rayas ,convirtiéndonos en presas de esta tendencia.
+        Se puede llevar con negro, con blanco, con plateado, como total look -para las más atrevidas-, o con colores, como el rojo, que ayudan a romper la monotonía del estilismo y darle un toque más interesante.
+        Las celebrities también se han dejado conquistar por este estampado y nos dan ideas para lucir esta tendencia, en vertical u horizontal, durante los próximos meses. Rachel Zoe, Marta Torné,
+        Nicole Richie, Alejandra Rojas, Carolina Bang y Alba Carrillo, son sólo algunas de ellas. ¡Entra en nuestra galería de imágenes y descubre quiénes han sucumbido a esta moda! </string>
+
+    <string name="titulo_de_cat_deportes">Catherine Ibargüen volvió a ganar en la Liga de Diamante.</string>
+    <string name="texto_de_cat_deportes">La colombiana Catherine Ibargüen lució su rango de campeona olímpica y mundial de triple con una victoria en el último salto, por solo tres centímetros,
+        sobre la subcampeona olímpica, la venezolana Yulimar Rojas.
+        Apenas dos dedos, los que separan las marcas de 14,86 y 14,83, entregaron la victoria a Ibargüen, que había permanecido por detrás en el concurso desde que la venezolana,
+        campeona mundial en pista cubierta, saltó 14,44 en su primer esfuerzo.
+        Catherine, de 33 años, recurrió a su garra y a su experiencia para en el último salto batir a su adversaria, doce años más joven, que ha de conformarse con seguir al frente
+        del ránking mundial del año con sus 14,96 del mitin español de Andújar.</string>
+
+    <string name="titulo_de_cat_politica">Argentina atraviesa la peor crisis laboral en 10 años.</string>
+    <string name="texto_de_cat_politica">El Observatorio del Derecho Social (ODS), detalló que en el primer trimestre de 2016 el sector construcción registró
+        la menor cantidad de obreros ocupados de la última década.
+        La estabilidad laboral en Argentina tambalea cada día a tal punto que ha sido calificada como la peor en los últimos 10 años de historia.
+        Pérdida de empleos, aumento de suspensiones y deterioro del salario real, son las tres combinaciones que el Observatorio del Derecho Social (ODS),
+        considera difícil de enfrentar en momentos en que el país atraviesa la peor crisis laboral.</string>
+
+    <string name="titulo_de_cat_economia">Melconian: Argentina vive por encima de sus posibilidades en el sector público.</string>
+    <string name="texto_de_cat_economia">El expresidente del Banco Central, Carlos Melconian, criticó la política económica a dos meses de haber dejado el Gobierno
+        y advirtió que "alguien va a tener que poner el culo en la silla para lograr el equilibrio macroeconómico".
+        Melconian expresó estos conceptos durante una charla en el marco del 34 Congreso del Instituto Argentino de Ejecutivos de Finanzas (IAEF),
+        junto a los economistas Dante Sica y Ricardo Arriazu.
+        El hasta hace poco funcionario del gobierno proclamó su fidelidad al presidente Mauricio Macri, pero descargó una serie de duras críticas,
+        entre las cuales, aseguró que el diagnóstico que se hizo de la situación del país estaba "parcialmente acertado".</string>
+
+    <string name="titulo_de_cat_espectaculos">U2 anuncia la gira del 30 aniversario de Joshua Tree.</string>
+    <string name="texto_de_cat_espectaculos">U2 celebrará el 30 aniversario de su álbum más querido, The Joshua Tree de 1987, con una gira internacional que se extenderá desde mayo hasta principios de agosto. En cada una de las fechas, la banda tocará el álbum completo. Bono y la pandilla dieron un poco de peso al anuncio con un video tráiler espectacular, que yuxtapone imágenes del U2 de pelo largo y chaleco de finales de los 80, con las chaquetas de cuero con cremalleras torcidas que esta usando U2 hoy, ajustado a las tensiones de los grandes singles de The Joshua Tree.</string>
+
+    <string name="titulo_de_cat_tecnologia">5 tecnologías modernas que nos aterrorizan</string>
+    <string name="texto_de_cat_tecnologia">Relajarse mientras vas al trabajo, escuela o necesitas ir por la ciudad
+        en plena hora de alto tránsito, parece un sueño, y los coches sin conductor podrían hacerlo realidad,
+        pero si bien son un avance interesante, no está libre de riesgos.
+        Todo sistema creado por humanos es imperfecto, no importa cuánto lo hayan probado, por lo que ese automóvil
+        sin conductor que te facilita la vida, podría tener un fallo y hacerte chocar, atropellar a un peatón o,
+        simplemente lanzarse por un barranco.</string>
+
+    <string name="titulo_de_cat_internacionales">Trump pide a sus seguidores detener amenazas racistas</string>
+    <string name="texto_de_cat_internacionales">El presidente electo Donald Trump instó a sus seguidores a detener los ataques
+        y amenazas racistas contra las minorías. “No lo hagan, es terrible, porque yo voy a unir a este país”, dijo Trump
+        durante una entrevista con el programa “60 minutos” de la cadena CBS, la cual fue grabada el viernes por la tardey transmitida
+        en su totalidad el domingo por la noche.
+        El presidente electo dijo haber sabido de uno o dos casos de racismo, “una muy pequeña cantidad” de casos ocurridos hasta entonces,
+        pero los medios reportaron varios otros incidentes ocurridos durante el fin de semana.El presidente electo Donald Trump instó a sus seguidores a detener los ataques
+        y amenazas racistas contra las minorías. “No lo hagan, es terrible, porque yo voy a unir a este país”, dijo Trump
+        durante una entrevista con el programa “60 minutos” de la cadena CBS, la cual fue grabada el viernes por la tardey transmitida
+        en su totalidad el domingo por la noche.</string>
+
+    <string name="titulo_de_cat_policiales">Los riesgos de las policias municipales.</string>
+    <string name="texto_de_cat_policiales">En la mayoría de los municipios de la región metropolitana, los mecanismos
+        de control social ciudadano son débiles cuando no inexistentes. Frente a eventuales casos de represión
+        de las futuras policías comunales, las instancias de reclamos que puedan realizarse ante
+        los Concejos Deliberantes pueden ser bastardeados con facilidad sin mayores costos para el poder de turno. </string>
+    <string name="nota_completa">*Nota completa* >> + </string>
+    <string name="item_buscar">Buscar</string>
+    <string name="texto_toolbar_search">Buscar noticias</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>

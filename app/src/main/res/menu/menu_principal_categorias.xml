@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+ <!--   las categorias que maneja esta api son: business, entertainment,
+    general, health, science, sports, technology-->
+
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/categoria_ciencia"
+            android:icon="@drawable/icono_ciencia"
+            android:title="@string/categoria_menu_ciencia" />
+        <item
+            android:id="@+id/categoria_deportes"
+            android:icon="@drawable/icono_deportes"
+            android:title="@string/categoria_menu_deportes" />
+        <item
+            android:id="@+id/categoria_espectaculos"
+            android:icon="@drawable/icono_espectaculos"
+            android:title="@string/categoria_menu_espectaculos" />
+        <item
+            android:id="@+id/categoria_general"
+            android:icon="@drawable/icono_general"
+            android:title="@string/categoria_menu_general" />
+        <item
+            android:id="@+id/categoria_negocios"
+            android:icon="@drawable/icono_negocios"
+            android:title="@string/categoria_menu_negocios" />
+        <item
+            android:id="@+id/categoria_salud"
+            android:icon="@drawable/icono_salud"
+            android:title="@string/categoria_menu_salud" />
+        <item
+            android:id="@+id/categoria_tecnologia"
+            android:icon="@drawable/icono_tecnologia"
+            android:title="@string/categoria_menu_tecnologia" />
+    </group>
+
+</menu>

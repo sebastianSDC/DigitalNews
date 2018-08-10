@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menuItem_search"
+        android:icon="@drawable/icono_search"
+        android:orderInCategory="0"
+        android:title="@string/item_buscar"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menuItem_chat"
+        android:icon="@drawable/ic_chat_black_24dp"
+        android:orderInCategory="0"
+        android:title="Chat"
+        app:showAsAction="always" />
+</menu>

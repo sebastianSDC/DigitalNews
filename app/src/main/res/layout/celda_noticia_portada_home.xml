@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/celda_portada"
+    android:layout_width="350dp"
+    android:layout_height="match_parent">
+
+
+
+    <LinearLayout
+        android:id="@+id/portada_linearlayout_noticia"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/portada_categoria_noticia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="20dp"
+            android:layout_marginStart="10dp"
+            android:text="@string/categoria_espectaculos"
+            android:textSize="30sp"
+            android:textStyle="bold"
+
+            />
+
+        <ImageView
+            android:id="@+id/portada_imagen_noticia"
+            android:layout_width="340dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="10dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/internacionales_horiz" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/portada_transparencia_texto"
+        android:layout_width="wrap_content"
+        android:layout_height="150dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="10dp"
+        android:alpha=".7"
+        android:background="@color/colorNegro" />
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/portada_transparencia_texto"
+        android:orientation="vertical"
+        android:paddingBottom="20dp">
+
+        <TextView
+            android:id="@+id/portada_titulo_noticia"
+            android:layout_width="340dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="2dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="8dp"
+            android:lineSpacingExtra="-4sp"
+            android:paddingHorizontal="15dp"
+            android:shadowColor="#000000"
+            android:shadowDx="2"
+            android:shadowDy="5"
+            android:shadowRadius="10"
+            android:text="@string/titulo_de_cat_espectaculos"
+            android:textColor="@color/colorBlanco"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/portada_texto_noticia"
+            android:layout_width="340dp"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="0dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginStart="10dp"
+            android:ellipsize="end"
+            android:gravity="top"
+            android:maxLines="4"
+            android:paddingHorizontal="15dp"
+            android:shadowColor="#000000"
+            android:shadowDx="2"
+            android:shadowDy="5"
+            android:shadowRadius="10"
+            android:text="@string/texto_de_cat_espectaculos"
+            android:textColor="@color/colorBlanco"
+            android:textSize="15sp" />
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>
